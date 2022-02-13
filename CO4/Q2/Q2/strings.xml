@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">spinner</string>
-    <string-array name="options">
-    <item>Recent</item>
-    <item>Offline</item>
-    <item>feedback</item>
-    </string-array>
-</resources>
